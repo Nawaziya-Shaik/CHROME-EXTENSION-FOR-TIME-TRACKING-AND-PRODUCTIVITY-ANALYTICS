@@ -1,0 +1,1 @@
+// Optional: Content script if needed in future
